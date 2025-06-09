@@ -1,2 +1,2 @@
 # Test Page
-[test](test.html)
+[test](test)
